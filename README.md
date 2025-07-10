@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Connect with me:
-- ✉️ Email: hoadkde180869@fpt.edu.vn  
+- ✉️ Email: khanhhoakt2k4@gmail.com  
 - 💻 GitHub: [@khanhhoa2102](https://github.com/khanhhoa2102)  
 - 🔗 LinkedIn: *[Coming soon]*
 
