@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dương Khánh Hòa</h1>
 
 <p align="center">
-🌟 A final-year fullstack Java developer from Da Nang, Viet Nam  
+🌟 A final-year fullstack developer from Da Nang, Viet Nam  
 <br>
 🚀 Team Leader of <strong>BeeTask</strong> – AI-powered task & schedule management app  
 <br>
